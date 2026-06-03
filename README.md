@@ -45,7 +45,7 @@ entered data.
 
 1. Clone the repository
 
-        git clone https://github.com/mehak784/student-result-gpa-tracker.git
+        git clone https://github.com/MehakImran-1/student-result-gpa-tracker.git
         cd student-result-gpa-tracker
 
 2. Create and activate a virtual environment
@@ -84,15 +84,6 @@ entered data.
 
 ---
 
-## Future Improvements
-
-- Add admin panel for managing multiple students
-- Implement PDF export for result transcripts
-- Integrate email notifications for result updates
-- Deploy the application to a cloud platform
-
----
-
 ## Preview
 
 ### Login
@@ -109,11 +100,15 @@ entered data.
 
 ---
 
-## Author
+## About the Developer
 
-**Mehak**
-6th Semester — Bachelor of Science in Information Technology
-GitHub: https://github.com/mehak784
+**Mehak Imran**  
+Bachelor of Science in Information Engineering Technology (BSIET)
+
+GitHub: https://github.com/MehakImran-1  
+Email: 70147062@student.uol.edu.pk
+
+
 
 
 
